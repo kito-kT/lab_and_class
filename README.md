@@ -1,2 +1,2 @@
-# publicworks
+# public
 open projects
